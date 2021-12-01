@@ -1,0 +1,2 @@
+# The-Effects-of-Micro-entrepreneurship-Programs-on-Labor-Market-Performance-Experimental-Evidence-fr
+This folder contains the data set required for the replication of the main claims of the paper. The do file "Replicación T1,T3, T4" update the original do and runs tables 1, 3 and 4. The original doesn't work properly because new stata  versions. In "REPLICACIÓN + EJ ROBUSTEZ" I replicate some claims of panel B Table 4 and suggest some robustness checks
